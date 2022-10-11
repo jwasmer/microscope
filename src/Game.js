@@ -1,0 +1,5 @@
+class BigPicture {
+  constructor(players) {
+    
+  }
+}
